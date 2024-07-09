@@ -31,6 +31,7 @@ Sou um entusiasta do **Linux** e do **mundo open-source**, sempre buscando novas
   - [elizeuoliveira@proton.me](mailto:elizeuoliveira@proton.me)
 - **Instagram**: [elizeu_oliveira94](https://www.instagram.com/elizeu_oliveira94/)
 - **Mastodon**: [@elizeuoliveira](https://mastodon.social/@elizeuoliveira)
+- **Threads**:  [@elizeu_oliveira94](https://www.threads.net/@elizeu_oliveira94)
 - **Chave PGP**: `859D0AB5A6F8F957`
 
 ---
