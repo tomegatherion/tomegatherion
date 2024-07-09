@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou Elizeu Oliveira!
 
-👨‍💻 **Projetista Elétrico** | 💡 **Tecnologia BIM** | 📚 **Estudante de Engenharia Elétrica**
+👨‍💻 **Projetista Elétrico** | 💡 **Tecnologia BIM** | 📚 **Estudante de Engenharia Elétrica** | 🛠️ **Técnico em Eletrotécnica**
 
 ---
 
 ## 📖 Sobre Mim
 
-Sou um **Projetista Elétrico** especializado em projetos residenciais, industriais e tecnologia BIM. Atualmente, estou cursando **Engenharia Elétrica** e buscando me aperfeiçoar na área de projetos e programação voltada à engenharia, construção e análise de dados.
+Sou um **Projetista Elétrico** especializado em projetos residenciais, industriais e tecnologia BIM. Sou formado como **Técnico em Eletrotécnica** e atualmente estou cursando **Engenharia Elétrica**, buscando me aperfeiçoar na área de projetos e programação voltada à engenharia, construção e análise de dados.
 
 ## 🛠️ Habilidades
 
@@ -31,6 +31,10 @@ Sou um entusiasta do **Linux** e do **mundo open-source**, sempre buscando novas
   - [elizeuoliveira@proton.me](mailto:elizeuoliveira@proton.me)
 - **Instagram**: [elizeu_oliveira94](https://www.instagram.com/elizeu_oliveira94/)
 - **Mastodon**: [@elizeuoliveira](https://mastodon.social/@elizeuoliveira)
-- **Chave PGP**: `859D 0AB5 A6F8 F957`
+- **Chave PGP**: `859D0AB5A6F8F957`
+
+---
+
+<a rel="me" href="https://mastodon.social/@elizeuoliveira">Verifique meu perfil no Mastodon</a>
 
 ---
