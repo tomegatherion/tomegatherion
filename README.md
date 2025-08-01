@@ -27,14 +27,7 @@ Sou um entusiasta do **Linux** e do **mundo open-source**, sempre buscando novas
 ## 📫 Contato
 
 - **E-mail**:
-  - [elizeu.therion@gmail.com](mailto:elizeu.therion@gmail.com)
+  - [elizeudelis.418@gmail.com](mailto:elizeudelis.418@gmail.com)
   - [elizeuoliveira@proton.me](mailto:elizeuoliveira@proton.me)
 - **Instagram**: [elizeu_oliveira94](https://www.instagram.com/elizeu_oliveira94/)
-- **Mastodon**: [@elizeuoliveira](https://mastodon.social/@elizeuoliveira)
-- **Chave PGP**: `859D0AB5A6F8F957`
-
----
-
-<a rel="me" href="https://mastodon.social/@elizeuoliveira">Verifique meu perfil no Mastodon</a>
-
----
+- **Chave PGP**: `8CA8 C296 617D 096A`
